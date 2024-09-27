@@ -1,0 +1,14 @@
+.NoteCard {
+    display: inline-block;
+    padding: 1%;
+    margin: auto;
+    width: auto;
+}
+
+.read-more-less--more {
+    opacity: 0.8;
+}
+
+.read-more-less--less {
+    opacity: 0.8;
+}
